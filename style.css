@@ -1,0 +1,40 @@
+body{
+	background-color: #0e4146;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 440px;
+  height: 340px;
+  justify-content: space-around;
+
+}
+img {
+	margin: 5px;
+
+	
+
+}
+h3{
+	font-size: 40px;
+	color: #f2b818;
+	display: flex;
+	justify-content: center;
+
+}
+.title{
+	display: flex;
+	justify-content: space-around;
+
+}
+section{
+	display: flex;
+	justify-content: space-around;
+
+}
+h2{
+	display: flex;
+	align-items: center;
+	font-size: 60px;
+	color: #a5cd3a;
+}
